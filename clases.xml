@@ -1,0 +1,35 @@
+<clases>
+	<clase>
+		<id>1</id>
+		<nombre>Matematica</nombre>
+		<catedratico>Carlos</catedratico>
+		<creditos>5</creditos>
+		<punteo>100</punteo>
+		<laboratorio>si</laboratorio>
+	</clase>
+	<clase>
+		<id>2</id>
+		<nombre>Lenguaje</nombre>
+		<catedratico>Albertina</catedratico>
+		<creditos>3</creditos>
+		<punteo>100</punteo>
+		<laboratorio>no</laboratorio>
+	</clase>
+	<clase>
+		<id>3</id>
+		<nombre>Fisica</nombre>
+		<catedratico>Carlos</catedratico>
+		<creditos>10</creditos>
+		<punteo>100</punteo>
+		<laboratorio>si</laboratorio>
+	</clase>
+	<clase>
+		<id>4</id>
+		<nombre>programacion</nombre>
+		<catedratico>Diego</catedratico>
+		<creditos>5</creditos>
+		<punteo>100</punteo>
+		<laboratorio>si</laboratorio>
+	</clase>
+</clases>
+	
